@@ -7,7 +7,6 @@
 			"files": [
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Levels/LevelSelect.umap",
-				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/Level.uasset",
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Textures/ground_pexels_.uasset",
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Materials/TerrainMaterial.uasset",
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Levels/LevelSelect_sharedassets/Clay_LayerInfo.uasset",
@@ -15,7 +14,11 @@
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Textures/grass_pexels_.uasset",
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Levels/LevelSelect_sharedassets/Stone_LayerInfo.uasset",
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Levels/LevelSelect_sharedassets/Wood_LayerInfo.uasset",
-				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/LevelPad.uasset"
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/LevelPad.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/Controller.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/GameMode.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/GMBase.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/Level.uasset"
 			]
 		}
 	]
