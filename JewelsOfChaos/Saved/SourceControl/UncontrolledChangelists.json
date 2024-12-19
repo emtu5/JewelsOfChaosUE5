@@ -16,8 +16,16 @@
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Levels/LevelSelect_sharedassets/Wood_LayerInfo.uasset",
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/LevelPad.uasset",
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/Controller.uasset",
-				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/GameMode.uasset",
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/GMBase.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/JewelLevelPad.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/TileLevelPad.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Materials/ShinyTile.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Materials/HighlightLevelPad.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Materials/SmallPadBase.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Materials/Water.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Materials/LargePadBase.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Materials/ShinyJewel.uasset",
+				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/GameMode.uasset",
 				"D:/MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/Level.uasset"
 			]
 		}
