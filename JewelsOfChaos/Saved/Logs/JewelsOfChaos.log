@@ -6414,3 +6414,1249 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2025.01.19-22.35.21:792][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
 [2025.01.19-22.35.21:798][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
 [2025.01.19-22.35.21:855][191]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.01.19-22.38.07:309][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9184.445312
+[2025.01.19-22.38.08:310][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.19-22.38.08:310][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9185.112305, Update Interval: 310.219421
+[2025.01.19-22.41.55:097][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.19-22.41.55:099][ 15]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Menu' took 0.023
+[2025.01.19-22.41.55:100][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Actors/LevelPlayer] ([2] browsable assets)...
+[2025.01.19-22.41.55:100][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/LevelPlayer]
+[2025.01.19-22.41.55:137][ 15]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actors/LevelPlayer_Auto4
+[2025.01.19-22.41.55:138][ 15]LogSavePackage: Moving '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Saved/LevelPlayer_Auto45EAD65AB4829562D1ABD83B9C1F2A6FA.tmp' to '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Saved/Autosaves/Game/Actors/LevelPlayer_Auto4.uasset'
+[2025.01.19-22.41.55:138][ 15]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/MainMenu] ([2] browsable assets)...
+[2025.01.19-22.41.55:142][ 15]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/MainMenu.MainMenu]
+[2025.01.19-22.41.55:142][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/MainMenu]
+[2025.01.19-22.41.55:147][ 15]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Menus/MainMenu_Auto4
+[2025.01.19-22.41.55:147][ 15]LogSavePackage: Moving '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Saved/MainMenu_Auto4ACAB6AE145E350C13EBD1DA47D945725.tmp' to '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Saved/Autosaves/Game/Menus/MainMenu_Auto4.uasset'
+[2025.01.19-22.41.55:147][ 15]LogFileHelpers: Auto-saving content packages took 0.048
+[2025.01.19-22.43.56:741][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9533.884766
+[2025.01.19-22.43.57:746][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.19-22.43.57:746][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9534.553711, Update Interval: 300.562164
+[2025.01.19-22.49.24:036][362]LogWindowsTextInputMethodSystem: Activated input method: Romanian (Romania) - (Keyboard).
+[2025.01.19-22.49.24:036][362]LogWindowsTextInputMethodSystem: Activated input method: Romanian (Romania) - (Keyboard).
+[2025.01.19-22.49.33:627][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-22.49.33:655][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/MainMenu" FILE="../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Menus/MainMenu.uasset" SILENT=true
+[2025.01.19-22.49.33:660][486]LogSavePackage: Moving output files for package: /Game/Menus/MainMenu
+[2025.01.19-22.49.33:660][486]LogSavePackage: Moving '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Saved/MainMenuA72006AC4104A663EC93F7B8684E93C3.tmp' to '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Menus/MainMenu.uasset'
+[2025.01.19-22.49.33:666][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 714 ms)
+[2025.01.19-22.49.33:668][486]AssetCheck: New page: Asset Save: MainMenu
+[2025.01.19-22.49.33:668][486]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Menus/MainMenu.MainMenu
+[2025.01.19-22.49.52:353][646]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9889.514648
+[2025.01.19-22.49.52:521][666]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.19-22.49.52:521][666]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9889.672852, Update Interval: 309.730530
+[2025.01.19-22.50.06:673][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-22.50.06:701][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/MainMenu" FILE="../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Menus/MainMenu.uasset" SILENT=true
+[2025.01.19-22.50.06:706][322]LogSavePackage: Moving output files for package: /Game/Menus/MainMenu
+[2025.01.19-22.50.06:707][322]LogSavePackage: Moving '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Saved/MainMenuD00A1B884009ACFDDD62D4811EA8F8D3.tmp' to '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Menus/MainMenu.uasset'
+[2025.01.19-22.50.06:713][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 755 ms)
+[2025.01.19-22.50.06:714][322]AssetCheck: New page: Asset Save: MainMenu
+[2025.01.19-22.50.06:714][322]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Menus/MainMenu.MainMenu
+[2025.01.19-22.50.18:736][665]BlueprintLog: New page: Compile LevelPlayer
+[2025.01.19-22.50.18:784][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.19-22.50.20:713][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-22.50.20:741][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/LevelPlayer" FILE="../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/LevelPlayer.uasset" SILENT=true
+[2025.01.19-22.50.20:779][817]LogSavePackage: Moving output files for package: /Game/Actors/LevelPlayer
+[2025.01.19-22.50.20:779][817]LogSavePackage: Moving '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Saved/LevelPlayer46CB0D3D4C69579FC7585D94389647E4.tmp' to '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Actors/LevelPlayer.uasset'
+[2025.01.19-22.50.20:785][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 826 ms)
+[2025.01.19-22.50.20:786][817]AssetCheck: New page: Asset Save: LevelPlayer
+[2025.01.19-22.50.20:786][817]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LevelPlayer.LevelPlayer
+[2025.01.19-22.51.14:533][951]LogSlate: Window 'Menu' being destroyed
+[2025.01.19-22.51.14:541][951]LogSlate: Window 'Menu' being destroyed
+[2025.01.19-22.51.14:543][951]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.51.14:543][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.51.14:635][951]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.51.14:635][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.51.14:684][951]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.51.14:684][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.51.14:688][951]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.51.14:689][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.51.14:760][951]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.51.14:760][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.51.14:764][951]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.51.14:764][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.51.14:790][951]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.51.14:790][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.54.13:593][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.19-22.54.16:370][678]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.19-22.54.16:386][678]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelSelect.LevelSelect
+[2025.01.19-22.54.16:386][678]Cmd: MAP LOAD FILE="../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Levels/LevelSelect.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.19-22.54.16:386][678]LightingResults: New page: Lighting Build
+[2025.01.19-22.54.16:386][678]LoadErrors: New page: Loading map: LevelSelect.umap
+[2025.01.19-22.54.16:398][678]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.54.16:398][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.54.16:398][678]MapCheck: New page: Map Check
+[2025.01.19-22.54.16:398][678]LightingResults: New page: Lighting Build
+[2025.01.19-22.54.16:411][678]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.19-22.54.16:413][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.19-22.54.16:415][678]LogWorld: UWorld::CleanupWorld for LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.54.16:416][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.54.16:457][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.19-22.54.16:468][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.01.19-22.54.16:579][678]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelSelect'.
+[2025.01.19-22.54.16:579][678]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.19-22.54.16:579][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.19-22.54.16:579][678]LogAIModule: Creating AISystem for world LevelSelect
+[2025.01.19-22.54.16:696][678]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.19-22.54.16:707][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.19-22.54.16:711][678]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.19-22.54.16:711][678]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2025.01.19-22.54.16:768][678]LogAutomationController: Ignoring very large delta of 3.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.19-22.54.35:591][635]Cmd: DELETE
+[2025.01.19-22.54.35:591][635]Cmd: ACTOR DELETE
+[2025.01.19-22.54.35:600][635]LogEditorActor: Deleted Actor: PlayerStart
+[2025.01.19-22.54.35:623][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.01.19-22.54.35:626][635]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.01.19-22.54.37:797][850]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.01.19-22.54.38:683][932]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.01.19-22.54.39:993][ 66]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.19-22.54.39:997][ 66]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.01.19-22.54.39:998][ 66]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2025.01.19-22.54.40:017][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.19-22.54.40:018][ 66]LogPlayLevel: PlayLevel: Blueprint regeneration took 21 ms (1 blueprints)
+[2025.01.19-22.54.40:018][ 66]PIE: New page: PIE session: LevelSelect (20 Jan 2025, 02:54:40)
+[2025.01.19-22.54.40:019][ 66]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelSelect
+[2025.01.19-22.54.40:047][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027932s)
+[2025.01.19-22.54.40:047][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelSelect.LevelSelect to /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect (0.027964s)
+[2025.01.19-22.54.40:059][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.01.19-22.54.40:060][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.19-22.54.40:060][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.19-22.54.40:060][ 66]LogAIModule: Creating AISystem for world LevelSelect
+[2025.01.19-22.54.40:061][ 66]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2025.01.19-22.54.40:061][ 66]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.01.19-22.54.40:061][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.19-22.54.40:061][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.19-22.54.40:061][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.19-22.54.40:061][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.19-22.54.40:061][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.19-22.54.40:061][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.19-22.54.40:061][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.19-22.54.40:061][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.19-22.54.40:061][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.19-22.54.40:061][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.19-22.54.40:061][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.19-22.54.40:063][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.19-22.54.40:080][ 66]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520 Stereo)
+[2025.01.19-22.54.40:080][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.19-22.54.40:080][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.19-22.54.40:080][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.19-22.54.40:081][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.01.19-22.54.40:081][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.01.19-22.54.40:082][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.01.19-22.54.40:082][ 66]LogInit: FAudioDevice initialized with ID 21.
+[2025.01.19-22.54.40:082][ 66]LogAudio: Display: Audio Device (ID: 21) registered with world 'LevelSelect'.
+[2025.01.19-22.54.40:082][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.01.19-22.54.40:082][ 66]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.01.19-22.54.40:103][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.19-22.54.40:103][ 66]LogLoad: Game class is 'GMBase_C'
+[2025.01.19-22.54.40:109][ 66]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect up for play (max tick rate 0) at 2025.01.20-00.54.40
+[2025.01.19-22.54.40:110][ 66]LogWorld: Bringing up level for play took: 0.006447
+[2025.01.19-22.54.40:112][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 22 5
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 23 3
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 24 4
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 25 2
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 32 3
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 33 4
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 34 1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 35 5
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 36 4
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 37 1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 38 4
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 39 3
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 42 5
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 43 2
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 44 4
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 45 5
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 46 1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 47 3
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 48 1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 49 1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 53 2
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 54 5
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 55 3
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 56 2
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 57 1
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 58 5
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 63 3
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 64 4
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 65 4
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 66 3
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 67 5
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 68 4
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 74 3
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 75 3
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 76 3
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 76 3
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 76 4
+[2025.01.19-22.54.40:124][ 66]LogBlueprintUserMessages: 77 4
+[2025.01.19-22.54.40:124][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_4
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_4
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_5
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_5
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_6
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_6
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_7
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_7
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_24
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_24
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_31
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_31
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_32
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_32
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_39
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_39
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_40
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_40
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_41
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:125][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_41
+[2025.01.19-22.54.40:126][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:126][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_46
+[2025.01.19-22.54.40:126][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:126][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_46
+[2025.01.19-22.54.40:126][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:126][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_47
+[2025.01.19-22.54.40:126][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.40:126][ 66]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_47
+[2025.01.19-22.54.40:127][ 66]PIE: Server logged in
+[2025.01.19-22.54.40:129][ 66]PIE: Play in editor total start time 0.132 seconds.
+[2025.01.19-22.54.40:153][ 66]LogViewport: Scene viewport resized to 1298x752, mode Windowed.
+[2025.01.19-22.54.43:089][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.19-22.54.43:089][295]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelSelect
+[2025.01.19-22.54.43:089][295]LogSlate: Window 'JewelsOfChaos Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.19-22.54.43:094][295]LogWorld: UWorld::CleanupWorld for LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.54.43:096][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.54.43:098][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.19-22.54.43:101][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.54.43:110][295]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.01.19-22.54.43:110][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.01.19-22.54.43:112][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.01.19-22.54.43:119][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.19-22.54.43:163][297]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.01.19-22.54.51:200][ 41]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.01.19-22.54.52:302][155]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.19-22.54.52:306][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.19-22.54.52:306][155]PIE: New page: PIE session: LevelSelect (20 Jan 2025, 02:54:52)
+[2025.01.19-22.54.52:306][155]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelSelect
+[2025.01.19-22.54.52:331][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024299s)
+[2025.01.19-22.54.52:331][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelSelect.LevelSelect to /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect (0.024335s)
+[2025.01.19-22.54.52:339][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.01.19-22.54.52:340][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.19-22.54.52:340][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.19-22.54.52:341][155]LogAIModule: Creating AISystem for world LevelSelect
+[2025.01.19-22.54.52:341][155]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2025.01.19-22.54.52:341][155]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.01.19-22.54.52:341][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.19-22.54.52:341][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.19-22.54.52:341][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.19-22.54.52:341][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.19-22.54.52:341][155]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.19-22.54.52:341][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.19-22.54.52:341][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.19-22.54.52:341][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.19-22.54.52:342][155]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.19-22.54.52:342][155]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.19-22.54.52:342][155]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.19-22.54.52:343][155]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.19-22.54.52:358][155]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520 Stereo)
+[2025.01.19-22.54.52:358][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.19-22.54.52:358][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.19-22.54.52:358][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.19-22.54.52:359][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.01.19-22.54.52:359][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.01.19-22.54.52:360][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.01.19-22.54.52:360][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.01.19-22.54.52:360][155]LogInit: FAudioDevice initialized with ID 22.
+[2025.01.19-22.54.52:360][155]LogAudio: Display: Audio Device (ID: 22) registered with world 'LevelSelect'.
+[2025.01.19-22.54.52:360][155]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.01.19-22.54.52:385][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.19-22.54.52:386][155]LogLoad: Game class is 'GMBase_C'
+[2025.01.19-22.54.52:393][155]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect up for play (max tick rate 0) at 2025.01.20-00.54.52
+[2025.01.19-22.54.52:394][155]LogWorld: Bringing up level for play took: 0.007834
+[2025.01.19-22.54.52:395][155]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.01.19-22.54.52:404][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:404][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:404][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:404][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:404][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:404][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:404][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:404][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:404][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 22 2
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 23 2
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 24 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 25 4
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 32 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 33 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 34 4
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 35 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 36 2
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 37 5
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 38 3
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 39 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 42 3
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 43 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 44 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 45 5
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 46 2
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 47 3
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 48 3
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 49 5
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 53 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 53 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 53 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 53 4
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 54 4
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 55 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 56 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 57 5
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 58 1
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 63 4
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 64 3
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 65 2
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 66 3
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 67 4
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 68 4
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 74 2
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 75 5
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 76 3
+[2025.01.19-22.54.52:405][155]LogBlueprintUserMessages: 77 5
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_4
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_4
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_5
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_5
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_6
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_6
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_7
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:405][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_7
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_24
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_24
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_31
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_31
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_32
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_32
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_39
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_39
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_40
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_40
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_41
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_41
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_46
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_46
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_47
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.54.52:406][155]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_47
+[2025.01.19-22.54.52:408][155]PIE: Server logged in
+[2025.01.19-22.54.52:409][155]PIE: Play in editor total start time 0.103 seconds.
+[2025.01.19-22.54.52:432][155]LogViewport: Scene viewport resized to 1298x752, mode Windowed.
+[2025.01.19-22.54.57:039][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.19-22.54.57:039][592]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelSelect
+[2025.01.19-22.54.57:039][592]LogSlate: Window 'JewelsOfChaos Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.19-22.54.57:044][592]LogWorld: UWorld::CleanupWorld for LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.54.57:045][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.54.57:048][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.19-22.54.57:052][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.54.57:064][592]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.01.19-22.54.57:064][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.01.19-22.54.57:065][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.01.19-22.54.57:073][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.01.19-22.54.57:114][593]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.01.19-22.55.01:933][ 70]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.01.19-22.55.02:718][150]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.19-22.55.02:722][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.19-22.55.02:722][150]PIE: New page: PIE session: LevelSelect (20 Jan 2025, 02:55:02)
+[2025.01.19-22.55.02:722][150]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelSelect
+[2025.01.19-22.55.02:744][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021985s)
+[2025.01.19-22.55.02:744][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelSelect.LevelSelect to /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect (0.022017s)
+[2025.01.19-22.55.02:754][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.19-22.55.02:755][150]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.19-22.55.02:755][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.19-22.55.02:756][150]LogAIModule: Creating AISystem for world LevelSelect
+[2025.01.19-22.55.02:756][150]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2025.01.19-22.55.02:756][150]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.01.19-22.55.02:756][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.19-22.55.02:756][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.19-22.55.02:756][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.19-22.55.02:756][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.19-22.55.02:756][150]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.19-22.55.02:756][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.19-22.55.02:756][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.19-22.55.02:756][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.19-22.55.02:756][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.19-22.55.02:756][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.19-22.55.02:756][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.19-22.55.02:758][150]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.19-22.55.02:772][150]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520 Stereo)
+[2025.01.19-22.55.02:773][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.19-22.55.02:773][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.19-22.55.02:773][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.19-22.55.02:773][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.01.19-22.55.02:773][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.01.19-22.55.02:775][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.01.19-22.55.02:775][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.01.19-22.55.02:775][150]LogInit: FAudioDevice initialized with ID 23.
+[2025.01.19-22.55.02:775][150]LogAudio: Display: Audio Device (ID: 23) registered with world 'LevelSelect'.
+[2025.01.19-22.55.02:775][150]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.01.19-22.55.02:800][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.19-22.55.02:800][150]LogLoad: Game class is 'GMBase_C'
+[2025.01.19-22.55.02:807][150]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect up for play (max tick rate 0) at 2025.01.20-00.55.02
+[2025.01.19-22.55.02:807][150]LogWorld: Bringing up level for play took: 0.006796
+[2025.01.19-22.55.02:809][150]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 22 4
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 23 4
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 24 5
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 25 1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 32 1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 33 3
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 34 2
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 35 4
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 36 5
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 37 4
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 38 1
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 39 2
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 42 4
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 43 4
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 44 5
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 45 4
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 46 4
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 47 3
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 48 3
+[2025.01.19-22.55.02:818][150]LogBlueprintUserMessages: 49 4
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 53 2
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 54 2
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 55 1
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 56 1
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 57 2
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 58 5
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 63 2
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 64 5
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 65 4
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 66 3
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 67 4
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 68 1
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 74 5
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 75 4
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 76 3
+[2025.01.19-22.55.02:819][150]LogBlueprintUserMessages: 77 3
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_4
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_4
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_5
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_5
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_6
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_6
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_7
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_7
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_24
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:819][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_24
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_31
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_31
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_32
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_32
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_39
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_39
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_40
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_40
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_41
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_41
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_46
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_46
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_47
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.02:820][150]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_47
+[2025.01.19-22.55.02:821][150]PIE: Server logged in
+[2025.01.19-22.55.02:823][150]PIE: Play in editor total start time 0.101 seconds.
+[2025.01.19-22.55.02:844][150]LogViewport: Scene viewport resized to 1298x752, mode Windowed.
+[2025.01.19-22.55.04:650][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.19-22.55.04:650][342]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelSelect
+[2025.01.19-22.55.04:650][342]LogSlate: Window 'JewelsOfChaos Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.19-22.55.04:654][342]LogWorld: UWorld::CleanupWorld for LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.55.04:655][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.55.04:657][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.19-22.55.04:661][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.55.04:672][342]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.01.19-22.55.04:672][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.01.19-22.55.04:673][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.01.19-22.55.04:681][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.19-22.55.04:722][343]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.01.19-22.55.06:444][522]Cmd: TRANSACTION UNDO
+[2025.01.19-22.55.06:444][522]LogEditorTransaction: Undo Rotate Elements
+[2025.01.19-22.55.13:968][267]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.19-22.55.13:971][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.19-22.55.13:971][267]PIE: New page: PIE session: LevelSelect (20 Jan 2025, 02:55:13)
+[2025.01.19-22.55.13:972][267]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelSelect
+[2025.01.19-22.55.13:993][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022006s)
+[2025.01.19-22.55.13:993][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelSelect.LevelSelect to /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect (0.022037s)
+[2025.01.19-22.55.14:001][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.01.19-22.55.14:003][267]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.19-22.55.14:003][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.19-22.55.14:003][267]LogAIModule: Creating AISystem for world LevelSelect
+[2025.01.19-22.55.14:003][267]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2025.01.19-22.55.14:003][267]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.01.19-22.55.14:003][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.19-22.55.14:003][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.19-22.55.14:003][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.19-22.55.14:003][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.19-22.55.14:003][267]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.19-22.55.14:003][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.19-22.55.14:003][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.19-22.55.14:003][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.19-22.55.14:004][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.19-22.55.14:004][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.19-22.55.14:004][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.19-22.55.14:005][267]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.19-22.55.14:021][267]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520 Stereo)
+[2025.01.19-22.55.14:021][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.19-22.55.14:021][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.19-22.55.14:021][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.19-22.55.14:021][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.01.19-22.55.14:021][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.01.19-22.55.14:023][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.01.19-22.55.14:023][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.01.19-22.55.14:023][267]LogInit: FAudioDevice initialized with ID 24.
+[2025.01.19-22.55.14:023][267]LogAudio: Display: Audio Device (ID: 24) registered with world 'LevelSelect'.
+[2025.01.19-22.55.14:023][267]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.01.19-22.55.14:048][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.19-22.55.14:048][267]LogLoad: Game class is 'GMBase_C'
+[2025.01.19-22.55.14:059][267]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect up for play (max tick rate 0) at 2025.01.20-00.55.14
+[2025.01.19-22.55.14:059][267]LogWorld: Bringing up level for play took: 0.010564
+[2025.01.19-22.55.14:061][267]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 22 4
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 23 1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 24 2
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 25 4
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 32 5
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 33 3
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 34 3
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 35 5
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 36 5
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 37 3
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 38 3
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 39 4
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 42 4
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 43 5
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 44 3
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 45 5
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 46 3
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 47 4
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 48 2
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 49 4
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 53 4
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 54 5
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 55 1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 56 5
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 57 4
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 58 5
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 63 1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 64 2
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 65 2
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 66 3
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 67 1
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 68 2
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 74 4
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 75 3
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 76 3
+[2025.01.19-22.55.14:070][267]LogBlueprintUserMessages: 77 2
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_4
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_4
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_5
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_5
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_6
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_6
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_7
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:070][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_7
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_24
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_24
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_31
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_31
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_32
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_32
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_39
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_39
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_40
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_40
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_41
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_41
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_46
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_46
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_47
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.55.14:071][267]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_LevelSelect.LevelSelect:PersistentLevel.Jewel_C_47
+[2025.01.19-22.55.14:073][267]PIE: Server logged in
+[2025.01.19-22.55.14:074][267]PIE: Play in editor total start time 0.103 seconds.
+[2025.01.19-22.55.14:097][267]LogViewport: Scene viewport resized to 1298x752, mode Windowed.
+[2025.01.19-22.55.17:569][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.19-22.55.17:569][658]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelSelect
+[2025.01.19-22.55.17:569][658]LogSlate: Window 'JewelsOfChaos Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.19-22.55.17:574][658]LogWorld: UWorld::CleanupWorld for LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.55.17:575][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.55.17:576][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.19-22.55.17:581][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.55.17:590][658]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.01.19-22.55.17:590][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.01.19-22.55.17:592][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.01.19-22.55.17:599][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.19-22.55.17:641][659]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.01.19-22.55.42:765][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10240.254883
+[2025.01.19-22.55.43:766][454]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.19-22.55.43:766][454]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10240.924805, Update Interval: 353.131500
+[2025.01.19-22.57.31:684][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.19-22.57.33:049][961]LogSlate: Window 'Save Content' being destroyed
+[2025.01.19-22.57.33:059][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-22.57.33:134][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.01.19-22.57.33:332][961]LogSavePackage: Moving output files for package: /Game/Levels/LevelSelect
+[2025.01.19-22.57.33:332][961]LogSavePackage: Moving '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Saved/LevelSelectEF5511BF45ABD57EDD572E9C0CF6479B.tmp' to '../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Levels/LevelSelect.umap'
+[2025.01.19-22.57.33:341][961]LogFileHelpers: Saving map 'LevelSelect' took 0.230
+[2025.01.19-22.57.33:349][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 289 ms (total: 1.11 sec)
+[2025.01.19-22.57.33:377][961]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.19-22.57.33:378][961]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Menu.Menu
+[2025.01.19-22.57.33:378][961]Cmd: MAP LOAD FILE="../../../../../MainStuff/Documents/Unreal Engine/JewelsOfChaosUE5/JewelsOfChaos/Content/Levels/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.19-22.57.33:378][961]LightingResults: New page: Lighting Build
+[2025.01.19-22.57.33:378][961]LoadErrors: New page: Loading map: Menu.umap
+[2025.01.19-22.57.33:391][961]LogWorld: UWorld::CleanupWorld for LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.57.33:391][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.57.33:391][961]MapCheck: New page: Map Check
+[2025.01.19-22.57.33:391][961]LightingResults: New page: Lighting Build
+[2025.01.19-22.57.33:399][961]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.19-22.57.33:407][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.19-22.57.33:410][961]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.57.33:410][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.57.33:419][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.19-22.57.33:430][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.01.19-22.57.33:435][961]LogAudio: Display: Audio Device (ID: 1) registered with world 'Menu'.
+[2025.01.19-22.57.33:435][961]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.19-22.57.33:435][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.19-22.57.33:435][961]LogAIModule: Creating AISystem for world Menu
+[2025.01.19-22.57.33:455][961]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.19-22.57.33:465][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.19-22.57.33:468][961]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.19-22.57.33:468][961]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.06ms to complete.
+[2025.01.19-22.57.33:484][961]AssetCheck: New page: Asset Save: LevelSelect
+[2025.01.19-22.57.34:019][ 12]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.19-22.57.34:023][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.19-22.57.34:023][ 12]PIE: New page: PIE session: Menu (20 Jan 2025, 02:57:34)
+[2025.01.19-22.57.34:024][ 12]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Menu
+[2025.01.19-22.57.34:025][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000695s)
+[2025.01.19-22.57.34:025][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu.Menu to /Game/Levels/UEDPIE_0_Menu.Menu (0.000725s)
+[2025.01.19-22.57.34:035][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.19-22.57.34:038][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.19-22.57.34:038][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.19-22.57.34:038][ 12]LogAIModule: Creating AISystem for world Menu
+[2025.01.19-22.57.34:038][ 12]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2025.01.19-22.57.34:038][ 12]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.01.19-22.57.34:038][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.19-22.57.34:038][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.19-22.57.34:038][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.19-22.57.34:038][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.19-22.57.34:038][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.19-22.57.34:038][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.19-22.57.34:038][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.19-22.57.34:038][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.19-22.57.34:039][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.19-22.57.34:039][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.19-22.57.34:039][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.19-22.57.34:040][ 12]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.19-22.57.34:055][ 12]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520 Stereo)
+[2025.01.19-22.57.34:056][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.19-22.57.34:056][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.19-22.57.34:056][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.19-22.57.34:057][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.01.19-22.57.34:057][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.01.19-22.57.34:073][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.01.19-22.57.34:073][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.01.19-22.57.34:073][ 12]LogInit: FAudioDevice initialized with ID 25.
+[2025.01.19-22.57.34:073][ 12]LogAudio: Display: Audio Device (ID: 25) registered with world 'Menu'.
+[2025.01.19-22.57.34:073][ 12]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.01.19-22.57.34:103][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.19-22.57.34:104][ 12]LogLoad: Game class is 'GameModeBase'
+[2025.01.19-22.57.34:104][ 12]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2025.01.20-00.57.34
+[2025.01.19-22.57.34:104][ 12]LogWorld: Bringing up level for play took: 0.000359
+[2025.01.19-22.57.34:108][ 12]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.01.19-22.57.34:111][ 12]PIE: Server logged in
+[2025.01.19-22.57.34:112][ 12]PIE: Play in editor total start time 0.09 seconds.
+[2025.01.19-22.57.34:125][ 12]LogViewport: Scene viewport resized to 1298x752, mode Windowed.
+[2025.01.19-22.57.35:287][143]LogNet: Browse: /Game/Levels/Level01
+[2025.01.19-22.57.35:287][143]LogLoad: LoadMap: /Game/Levels/Level01
+[2025.01.19-22.57.35:287][143]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Menu
+[2025.01.19-22.57.35:287][143]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.57.35:287][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.57.35:318][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.19-22.57.35:320][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.01.19-22.57.35:327][143]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level01'.
+[2025.01.19-22.57.35:327][143]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.19-22.57.35:327][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.19-22.57.35:327][143]LogAIModule: Creating AISystem for world Level01
+[2025.01.19-22.57.35:327][143]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2025.01.19-22.57.35:327][143]LogLoad: Game class is 'GMBase_C'
+[2025.01.19-22.57.35:328][143]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2025.01.20-00.57.35
+[2025.01.19-22.57.35:328][143]LogWorld: Bringing up level for play took: 0.000564
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:337][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: [LevelPlayer_C_0] 0
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: [LevelPlayer_C_0] -1
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 22 1
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 23 5
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 24 4
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 25 3
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 32 4
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 33 3
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 34 1
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 35 4
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 36 5
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 37 4
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 38 3
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 39 1
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 42 4
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 43 4
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 44 2
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 45 5
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 46 5
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 47 5
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 47 5
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 47 2
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 48 2
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 49 4
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 53 5
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 54 5
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 55 2
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 56 2
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 57 2
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 57 2
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 57 1
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 58 1
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 63 5
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 64 3
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 65 4
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 66 3
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 67 2
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 68 5
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 74 1
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 75 4
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 76 5
+[2025.01.19-22.57.35:338][143]LogBlueprintUserMessages: 77 2
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_4
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_4
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_5
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_5
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_6
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_6
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_7
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:338][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_7
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_24
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_24
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_31
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_31
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_32
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_32
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_39
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_39
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_40
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_40
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_41
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_41
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_46
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_46
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'jewels' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_47
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'materials' of length 6 in '/Game/Actors/Jewel.Jewel_C'!
+[2025.01.19-22.57.35:339][143]LogScript: Warning: Script Msg called by: Jewel_C /Game/Levels/UEDPIE_0_Level01.Level01:PersistentLevel.Jewel_C_47
+[2025.01.19-22.57.35:339][143]LogLoad: Took 0.052433 seconds to LoadMap(/Game/Levels/Level01)
+[2025.01.19-22.57.35:371][144]LogBlueprintUserMessages: [Tile_C_33] 33
+[2025.01.19-22.57.35:379][145]LogBlueprintUserMessages: [Jewel_C_34] 34
+[2025.01.19-22.57.35:409][147]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.35:417][148]LogBlueprintUserMessages: [Tile_C_29] 29
+[2025.01.19-22.57.35:426][149]LogBlueprintUserMessages: [Jewel_C_29] 29
+[2025.01.19-22.57.35:435][150]LogBlueprintUserMessages: [Tile_C_30] 30
+[2025.01.19-22.57.35:445][151]LogBlueprintUserMessages: [Tile_C_22] 22
+[2025.01.19-22.57.35:741][183]LogBlueprintUserMessages: [Tile_C_22] 22
+[2025.01.19-22.57.35:760][185]LogBlueprintUserMessages: [Jewel_C_22] 22
+[2025.01.19-22.57.35:770][186]LogBlueprintUserMessages: [Tile_C_22] 22
+[2025.01.19-22.57.35:787][188]LogBlueprintUserMessages: [Tile_C_21] 21
+[2025.01.19-22.57.35:815][191]LogBlueprintUserMessages: [Tile_C_20] 20
+[2025.01.19-22.57.35:864][196]LogBlueprintUserMessages: [Tile_C_19] 19
+[2025.01.19-22.57.35:946][205]LogBlueprintUserMessages: [Tile_C_27] 27
+[2025.01.19-22.57.35:966][207]LogBlueprintUserMessages: [Jewel_C_27] 27
+[2025.01.19-22.57.36:040][215]LogBlueprintUserMessages: [Tile_C_27] 27
+[2025.01.19-22.57.36:160][228]LogBlueprintUserMessages: [Tile_C_27] 27
+[2025.01.19-22.57.36:198][232]LogBlueprintUserMessages: [Tile_C_26] 26
+[2025.01.19-22.57.36:207][233]LogBlueprintUserMessages: [Tile_C_18] 18
+[2025.01.19-22.57.36:216][234]LogBlueprintUserMessages: [Jewel_C_18] 18
+[2025.01.19-22.57.36:237][236]LogBlueprintUserMessages: [Tile_C_18] 18
+[2025.01.19-22.57.36:247][237]LogBlueprintUserMessages: [Tile_C_10] 10
+[2025.01.19-22.57.36:341][247]LogBlueprintUserMessages: [Tile_C_9] 9
+[2025.01.19-22.57.36:415][255]LogBlueprintUserMessages: [Tile_C_17] 17
+[2025.01.19-22.57.36:434][257]LogBlueprintUserMessages: [Tile_C_18] 18
+[2025.01.19-22.57.36:453][259]LogBlueprintUserMessages: [Tile_C_26] 26
+[2025.01.19-22.57.36:481][262]LogBlueprintUserMessages: [Tile_C_27] 27
+[2025.01.19-22.57.36:490][263]LogBlueprintUserMessages: [Tile_C_35] 35
+[2025.01.19-22.57.36:518][266]LogBlueprintUserMessages: [Tile_C_36] 36
+[2025.01.19-22.57.36:538][268]LogBlueprintUserMessages: [Jewel_C_36] 36
+[2025.01.19-22.57.36:659][281]LogBlueprintUserMessages: [Tile_C_36] 36
+[2025.01.19-22.57.36:679][283]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.36:717][287]LogBlueprintUserMessages: [Tile_C_20] 20
+[2025.01.19-22.57.36:725][288]LogBlueprintUserMessages: [Tile_C_19] 19
+[2025.01.19-22.57.36:837][300]LogBlueprintUserMessages: [Jewel_C_19] 19
+[2025.01.19-22.57.36:846][301]LogBlueprintUserMessages: [Tile_C_19] 19
+[2025.01.19-22.57.36:865][303]LogBlueprintUserMessages: [Tile_C_27] 27
+[2025.01.19-22.57.36:875][304]LogBlueprintUserMessages: [Jewel_C_27] 27
+[2025.01.19-22.57.36:884][305]LogBlueprintUserMessages: [Tile_C_27] 27
+[2025.01.19-22.57.36:893][306]LogBlueprintUserMessages: [Tile_C_35] 35
+[2025.01.19-22.57.36:921][309]LogBlueprintUserMessages: [Tile_C_36] 36
+[2025.01.19-22.57.36:948][312]LogBlueprintUserMessages: [Tile_C_44] 44
+[2025.01.19-22.57.36:987][316]LogBlueprintUserMessages: [Tile_C_37] 37
+[2025.01.19-22.57.37:025][320]LogBlueprintUserMessages: [Tile_C_38] 38
+[2025.01.19-22.57.37:044][322]LogBlueprintUserMessages: [Tile_C_30] 30
+[2025.01.19-22.57.37:064][324]LogBlueprintUserMessages: [Jewel_C_30] 30
+[2025.01.19-22.57.37:082][326]LogBlueprintUserMessages: [Tile_C_30] 30
+[2025.01.19-22.57.37:103][328]LogBlueprintUserMessages: [Tile_C_22] 22
+[2025.01.19-22.57.37:148][333]LogBlueprintUserMessages: [Tile_C_14] 14
+[2025.01.19-22.57.37:167][335]LogBlueprintUserMessages: [Jewel_C_14] 14
+[2025.01.19-22.57.37:252][344]LogBlueprintUserMessages: [Tile_C_14] 14
+[2025.01.19-22.57.37:271][346]LogBlueprintUserMessages: [Tile_C_13] 13
+[2025.01.19-22.57.37:280][347]LogBlueprintUserMessages: [Jewel_C_13] 13
+[2025.01.19-22.57.37:290][348]LogBlueprintUserMessages: [Tile_C_13] 13
+[2025.01.19-22.57.37:318][351]LogBlueprintUserMessages: [Tile_C_12] 12
+[2025.01.19-22.57.37:347][354]LogBlueprintUserMessages: [Tile_C_20] 20
+[2025.01.19-22.57.37:376][357]LogBlueprintUserMessages: [Jewel_C_20] 20
+[2025.01.19-22.57.37:385][358]LogBlueprintUserMessages: [Tile_C_20] 20
+[2025.01.19-22.57.37:478][368]LogBlueprintUserMessages: [Tile_C_29] 29
+[2025.01.19-22.57.37:907][414]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.38:084][433]LogBlueprintUserMessages: [Tile_C_28] Selected Tile 28 true
+[2025.01.19-22.57.38:478][475]LogBlueprintUserMessages: [Tile_C_36] 36
+[2025.01.19-22.57.38:681][497]LogBlueprintUserMessages: [Tile_C_44] 44
+[2025.01.19-22.57.38:699][499]LogBlueprintUserMessages: [Jewel_C_36] 36
+[2025.01.19-22.57.38:709][500]LogBlueprintUserMessages: [Tile_C_36] 36
+[2025.01.19-22.57.38:718][501]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.38:728][502]LogBlueprintUserMessages: [Jewel_C_28] 28
+[2025.01.19-22.57.38:738][503]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.38:747][504]LogBlueprintUserMessages: [Tile_C_20] 20
+[2025.01.19-22.57.38:756][505]LogBlueprintUserMessages: [Jewel_C_20] 20
+[2025.01.19-22.57.38:766][506]LogBlueprintUserMessages: [Tile_C_20] 20
+[2025.01.19-22.57.38:805][510]LogBlueprintUserMessages: [Tile_C_12] 12
+[2025.01.19-22.57.38:887][519]LogBlueprintUserMessages: [Tile_C_13] 13
+[2025.01.19-22.57.39:028][534]LogBlueprintUserMessages: [Tile_C_12] 12
+[2025.01.19-22.57.39:057][537]LogBlueprintUserMessages: [Tile_C_20] 20
+[2025.01.19-22.57.39:084][540]LogBlueprintUserMessages: [Jewel_C_20] 20
+[2025.01.19-22.57.39:093][541]LogBlueprintUserMessages: [Tile_C_20] 20
+[2025.01.19-22.57.39:111][543]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.39:121][544]LogBlueprintUserMessages: [Jewel_C_28] 28
+[2025.01.19-22.57.39:131][545]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.39:149][547]LogBlueprintUserMessages: [Tile_C_36] 36
+[2025.01.19-22.57.39:194][552]LogBlueprintUserMessages: [Tile_C_44] 44
+[2025.01.19-22.57.39:373][571]LogBlueprintUserMessages: [Tile_C_36] 36
+[2025.01.19-22.57.39:428][577]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.39:456][580]LogBlueprintUserMessages: [Jewel_C_28] 28
+[2025.01.19-22.57.39:873][624]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.39:940][631]LogBlueprintUserMessages: [Tile_C_29] 29
+[2025.01.19-22.57.40:284][668]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.40:431][684]LogBlueprintUserMessages: [Tile_C_28] Deselected Tile 28 false
+[2025.01.19-22.57.40:572][699]LogBlueprintUserMessages: [Tile_C_37] 37
+[2025.01.19-22.57.40:618][704]LogBlueprintUserMessages: [Tile_C_45] 45
+[2025.01.19-22.57.40:778][721]LogBlueprintUserMessages: [Tile_C_37] 37
+[2025.01.19-22.57.40:806][724]LogBlueprintUserMessages: [Jewel_C_37] 37
+[2025.01.19-22.57.40:834][727]LogBlueprintUserMessages: [Tile_C_37] 37
+[2025.01.19-22.57.40:852][729]LogBlueprintUserMessages: [Tile_C_29] 29
+[2025.01.19-22.57.41:020][747]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.41:206][767]LogBlueprintUserMessages: [Jewel_C_28] 28
+[2025.01.19-22.57.41:262][773]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.41:477][796]LogBlueprintUserMessages: [Jewel_C_28] 28
+[2025.01.19-22.57.41:560][805]LogBlueprintUserMessages: [Tile_C_28] 28
+[2025.01.19-22.57.41:655][815]LogBlueprintUserMessages: [Tile_C_27] 27
+[2025.01.19-22.57.41:683][818]LogBlueprintUserMessages: [Jewel_C_27] 27
+[2025.01.19-22.57.41:728][823]LogBlueprintUserMessages: [Tile_C_27] 27
+[2025.01.19-22.57.41:842][835]LogBlueprintUserMessages: [Tile_C_26] 26
+[2025.01.19-22.57.41:991][851]LogBlueprintUserMessages: [Tile_C_18] 18
+[2025.01.19-22.57.42:076][860]LogBlueprintUserMessages: [Tile_C_10] 10
+[2025.01.19-22.57.42:084][861]LogBlueprintUserMessages: [Tile_C_2] 2
+[2025.01.19-22.57.42:281][882]LogBlueprintUserMessages: [Tile_C_2] 2
+[2025.01.19-22.57.42:289][883]LogBlueprintUserMessages: [Jewel_C_2] 2
+[2025.01.19-22.57.42:299][884]LogBlueprintUserMessages: [Tile_C_2] 2
+[2025.01.19-22.57.42:309][885]LogBlueprintUserMessages: [Tile_C_10] 10
+[2025.01.19-22.57.42:317][886]LogBlueprintUserMessages: [Jewel_C_10] 10
+[2025.01.19-22.57.42:336][888]LogBlueprintUserMessages: [Tile_C_10] 10
+[2025.01.19-22.57.42:355][890]LogBlueprintUserMessages: [Tile_C_18] 18
+[2025.01.19-22.57.42:420][897]LogBlueprintUserMessages: [Tile_C_26] 26
+[2025.01.19-22.57.42:525][908]LogBlueprintUserMessages: [Tile_C_34] 34
+[2025.01.19-22.57.42:743][931]LogBlueprintUserMessages: [Tile_C_34] 34
+[2025.01.19-22.57.42:817][939]LogBlueprintUserMessages: [Tile_C_26] 26
+[2025.01.19-22.57.42:855][943]LogBlueprintUserMessages: [Tile_C_18] 18
+[2025.01.19-22.57.42:873][945]LogBlueprintUserMessages: [Tile_C_10] 10
+[2025.01.19-22.57.42:893][947]LogBlueprintUserMessages: [Jewel_C_10] 10
+[2025.01.19-22.57.42:902][948]LogBlueprintUserMessages: [Tile_C_10] 10
+[2025.01.19-22.57.42:912][949]LogBlueprintUserMessages: [Tile_C_2] 2
+[2025.01.19-22.57.43:165][976]LogBlueprintUserMessages: [Tile_C_10] 10
+[2025.01.19-22.57.43:174][977]LogBlueprintUserMessages: [Jewel_C_10] 10
+[2025.01.19-22.57.43:182][978]LogBlueprintUserMessages: [Tile_C_10] 10
+[2025.01.19-22.57.43:191][979]LogBlueprintUserMessages: [Tile_C_18] 18
+[2025.01.19-22.57.43:201][980]LogBlueprintUserMessages: [Jewel_C_18] 18
+[2025.01.19-22.57.43:219][982]LogBlueprintUserMessages: [Tile_C_18] 18
+[2025.01.19-22.57.43:238][984]LogBlueprintUserMessages: [Tile_C_26] 26
+[2025.01.19-22.57.43:481][ 10]LogBlueprintUserMessages: [Tile_C_18] 18
+[2025.01.19-22.57.43:620][ 25]LogBlueprintUserMessages: [Tile_C_17] 17
+[2025.01.19-22.57.43:778][ 42]LogBlueprintUserMessages: [Tile_C_9] 9
+[2025.01.19-22.57.43:799][ 44]LogBlueprintUserMessages: [Tile_C_1] 1
+[2025.01.19-22.57.44:013][ 67]LogBlueprintUserMessages: [Tile_C_1] 1
+[2025.01.19-22.57.44:041][ 70]LogBlueprintUserMessages: [Tile_C_9] 9
+[2025.01.19-22.57.44:078][ 74]LogBlueprintUserMessages: [Tile_C_17] 17
+[2025.01.19-22.57.44:245][ 92]LogBlueprintUserMessages: [Tile_C_18] 18
+[2025.01.19-22.57.44:263][ 94]LogBlueprintUserMessages: [Jewel_C_18] 18
+[2025.01.19-22.57.44:273][ 95]LogBlueprintUserMessages: [Tile_C_18] 18
+[2025.01.19-22.57.44:283][ 96]LogBlueprintUserMessages: [Tile_C_19] 19
+[2025.01.19-22.57.44:302][ 98]LogBlueprintUserMessages: [Tile_C_20] 20
+[2025.01.19-22.57.44:320][100]LogBlueprintUserMessages: [Tile_C_21] 21
+[2025.01.19-22.57.44:340][102]LogBlueprintUserMessages: [Tile_C_22] 22
+[2025.01.19-22.57.44:348][103]LogBlueprintUserMessages: [Jewel_C_22] 22
+[2025.01.19-22.57.44:357][104]LogBlueprintUserMessages: [Tile_C_22] 22
+[2025.01.19-22.57.45:196][194]LogBlueprintUserMessages: [Tile_C_23] 23
+[2025.01.19-22.57.45:979][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.19-22.57.45:979][273]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level01
+[2025.01.19-22.57.45:979][273]LogSlate: Window 'JewelsOfChaos Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.19-22.57.45:984][273]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2025.01.19-22.57.45:985][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.57.45:988][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.19-22.57.45:992][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.19-22.57.46:004][273]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.01.19-22.57.46:004][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.01.19-22.57.46:006][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.01.19-22.57.46:012][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.19-22.57.46:050][276]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.01.19-23.02.22:129][972]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10639.750977
+[2025.01.19-23.02.23:130][975]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.19-23.02.23:130][975]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10640.418945, Update Interval: 357.489563
